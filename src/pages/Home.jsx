@@ -63,7 +63,7 @@ export default function Home() {
                   initial={{ opacity: 0, x: -20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 0.3 }}
-                  className="text-4xl md:text-5xl font-bold text-white mb-3"
+                  className="text-4xl md:text-5xl font-bold text-pink-400 mb-3"
                 >
                   Yoni Sebban
                 </motion.h1>
